@@ -20,4 +20,5 @@ FUTURE DEVELOPMENT PLAN:
 if you pass the pdf directly into chatbots the accuracy drops to around 55%
 i will develop this prototype by creating an automated system that uses langdetect and regex to clean the data provided to chatbot
 that will incerase the accuracy in future.
-also ill exsperiment with diffirent techniques.
+also i will exsperiment with diffirent techniques.
+like using BERT models from hugging face as it has the highest accuracy In this kind of task.
